@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.talcorpdz.events",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "EventManager",
+    "packageName": "com.talcorpdz.events",
+    "packageFolder": "com/talcorpdz/events",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTEyM2U0ZTM0YTU3MDJlMzFkN2I1MmJmM2JjYjg1YTQxZDBiM2IyN2YxYjVjZTY4MzI5ZDI2YWU3MDIzMzVmYWY4YzVmOTMzZDE3MzQ0NTcxMjNkNGM2ODMxMDRkOTM2OGE2ZGI5NzZhNTNkMmY0MWNkMzc3MmM3MzhlM2MxYjc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "simplex",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1589045961202,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "ar-ly", "en"],
+    "blueprints": []
+  }
+}
